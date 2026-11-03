@@ -2,7 +2,7 @@
 
 Derivation and analysis of the Lighthill–Whitham–Richards (LWR) and Aw–Rascle traffic models, including the complete solution of the Aw–Rascle Riemann problem.
 
-**TU/e · Group project on hyperbolic conservation laws**
+**TU/e · Group project on hyperbolic conservation laws · Aug – Oct 2025 · Grade 10.0/10**
 
 <!-- REPORT_LINK -->
 
